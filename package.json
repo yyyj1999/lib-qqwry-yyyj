@@ -1,6 +1,6 @@
 {
-  "name": "lib-qqwry",
-  "version": "1.3.2",
+  "name": "lib-qqwry-yyyj",
+  "version": "1.0.0",
   "description": "Using NodeJS analytical IP Library (qqwry.dat) module.",
   "main": "lib/qqwry",
   "scripts": {
@@ -12,17 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cnwhy/lib-qqwry.git"
+    "url": "git+https://github.com/yyyj1999/lib-qqwry-yyyj.git"
   },
   "keywords": [
+    "ip",
     "qqwry",
-    "纯真IP库",
-    "IP地址"
+    "qqwry.dat"
   ],
-  "author": {
-    "name": "cnwhy"
-  },
-  "license": "BSD",
+  "author": "yyyj1999",
+  "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
     "chalk": "^2.4.2",
@@ -35,5 +33,13 @@
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4"
+  },
+  "bugs": {
+    "url": "https://github.com/yyyj1999/lib-qqwry-yyyj/issues"
+  },
+  "homepage": "https://github.com/yyyj1999/lib-qqwry-yyyj#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }

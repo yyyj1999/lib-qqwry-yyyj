@@ -1,4 +1,7 @@
-# lib-qqwry
+# lib-qqwry-yyyj
+
+**声明：本模块fork自[lib-qqwry](https://github.com/cnwhy/lib-qqwry) :satisfied:**
+> `lib-qqwry` 仅用于更新IP库。
 
 `lib-qqwry`是一个高效纯真IP库(qqwry.dat)引擎;  
 
