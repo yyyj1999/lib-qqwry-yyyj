@@ -10,3 +10,4 @@ data/*.tmp
 pids
 logs
 results
+node_modules
